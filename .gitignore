@@ -1,0 +1,18 @@
+# Ignore everything by default
+*
+
+# Allow tracking of .tmux.conf
+!.tmux.conf
+
+# Allow tracking of the scripts folder and its contents
+!scripts/
+!scripts/**
+
+# Allow tracking of the README.md file
+!README.md
+
+# Allow tracking of the LICENSE file
+!LICENSE
+
+# Allow tracking of the .gitignore file itself
+!.gitignore
